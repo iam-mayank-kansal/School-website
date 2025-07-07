@@ -1,6 +1,5 @@
 import ApplyNow from "@/components/applynow";
 import ContactUs from "@/components/contactus";
-import Counter from "@/components/counter";
 import Event from "@/components/event";
 import Footer from "@/components/Footer";
 import SchoolGallery from "@/components/gallery";
