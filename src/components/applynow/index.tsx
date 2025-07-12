@@ -1,6 +1,6 @@
 export default function ApplyNow() {
     return (
-        <section className="w-full h-full flex justify-center items-center">
+        <section className="w-full h-full py-20 flex justify-center items-center">
             <div className="w-[84%] max-sm:w-[95%] h-[500px] max-sm:h-[400px] overflow-hidden bg-[url('/images/about-bg.jpg')] rounded-[8px] bg-cover bg-center bg-no-repeat relative">
                 <div className="w-[50%] max-lg:w-[70%] max-sm:w-[100%] max-sm:gap-4 max-sm:p-5 p-10 flex gap-8 flex-col  justify-center h-full absolute right-0 top-0">
                     <h1 className="text-4xl text-white max-sm:text-2xl font-semibold">Apply for Admission</h1>
