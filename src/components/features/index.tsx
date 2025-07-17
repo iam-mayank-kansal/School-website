@@ -69,8 +69,8 @@ export default function CampusFeatures() {
 
                         <div className="absolute inset-0 bg-gradient-to-t from-gray-900/80 via-gray-900/30 to-transparent" />
 
-                        <div className="relative h-full flex flex-col justify-end p-8 text-white">
-                            <div className="transform transition-all duration-500 group-hover:-translate-y-2">
+                        <div className="relative -bottom-10 h-full flex flex-col justify-end p-8 text-white">
+                            <div className="transform transition-all duration-500 group-hover:-translate-y-7">
                                 <h3 className="text-2xl font-bold mb-2">{feature.label}</h3>
                                 <p className="text-gray-300 opacity-0 group-hover:opacity-100 transition-opacity duration-300">
                                     {feature.description}
